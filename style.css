@@ -1,6 +1,6 @@
 .banner-line {
-  background-image: url("/Group 35566.png"), url("/Group 35566.png"),
-    url("./Group 35568.png"), url("/Group 35568.png");
+  background-image: url("./asset/Group 35566.png"), url("./asset/Group 35566.png"),
+    url("./asset/Group 35568.png"), url("./asset/Group 35568.png");
   background-repeat: no-repeat;
   background-position: center left 40px, center right 40px, center top 30px,
     center bottom 30px;
@@ -9,7 +9,7 @@
 
 @media (max-width: 640px) {
   .banner-line {
-    background-image: url("/Group 35566.png"), url("/Group 35568.png"), url("/Group 35568.png");
+    background-image: url("./asset/Group 35566.png"), url("./asset/Group 35568.png"), url("./asset/Group 35568.png");
     background-repeat: no-repeat;
     background-position: center, center top 20px, center bottom 20px;
   }
