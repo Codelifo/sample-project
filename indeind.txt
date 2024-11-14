@@ -1,0 +1,12 @@
+ <nav class="flex justify-between gap-3">
+            <div class="">
+                <img src="./Frame 95369.png" alt="">
+            </div>
+            <div class="flex-1 text-white bg-dark2 rounded-full border border-[#302e2eb6]">
+                <ul class="text-lg font-normal text-gray-300 flex  justify-around">
+                    <li>FACEBOOK</li>
+                    <li>GITHUB</li>
+                    <li>linkedin</li>
+                </ul>
+            </div>
+        </nav>
